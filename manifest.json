@@ -1,0 +1,20 @@
+{
+  "short_name": "QR Attend",
+  "name": "Dynamic QR Attendance",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/google_cloud_48dp.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/google_cloud_48dp.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e293b",
+  "background_color": "#0f172a"
+}

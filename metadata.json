@@ -1,0 +1,7 @@
+{
+  "name": "Dynamic QR Attendance",
+  "description": "A simple and secure attendance system for faculty. It generates a new QR code every 30 seconds for students to scan, designed for display on a screen or projector.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
