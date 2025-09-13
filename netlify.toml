@@ -1,9 +1,2 @@
-[build]
-  # Our app has no build step, so we serve files from the root.
-  publish = "." 
-  functions = "netlify/functions"
-
-[[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/:splat"
-  status = 200
+[functions]
+  directory = "netlify/functions/"
